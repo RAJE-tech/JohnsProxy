@@ -1,0 +1,22 @@
+{
+  "name": "johnsproxy",
+  "version": "1.0.0",
+  "description": "a proxy server to gather all the services for the BRAC retail model",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAJE-tech/JohnsProxy.git"
+  },
+  "author": "andy seracuse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAJE-tech/JohnsProxy/issues"
+  },
+  "homepage": "https://github.com/RAJE-tech/JohnsProxy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
