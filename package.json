@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/RAJE-tech/JohnsProxy#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "react-scripts": "^3.4.3"
   }
 }
